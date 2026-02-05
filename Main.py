@@ -30,7 +30,7 @@ if __name__ == "__main__":
         "Nelson Nicolas Cruz Capella"
     ]
 
-    repo_url = "https://github.com/JHerrerat7/Envi-de-Correo-v-a-Gmail--Python.git"
+    repo_url = "https://github.com/JHerrerat7/MensajeViaCorreoElectronico_Python.git"
     destinatarios = ["jeangamerf@gmail.com"]
 
     servicio = EmailService(correo, password_app)
