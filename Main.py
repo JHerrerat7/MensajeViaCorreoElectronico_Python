@@ -31,7 +31,7 @@ if __name__ == "__main__":
     ]
 
     repo_url = "https://github.com/JHerrerat7/MensajeViaCorreoElectronico_Python.git"
-    destinatarios = ["jeangamerf@gmail.com"]
+    destinatarios = ["gbricenor@ucentral.edu.co"]
 
     servicio = EmailService(correo, password_app)
     mensaje = construir_mensaje(integrantes, repo_url)
